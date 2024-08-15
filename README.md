@@ -1,6 +1,5 @@
 # Data-Analytics-project
-</br> This project is mainly based on Titanic dataset which is from kaggle ![image](https://1drv.ms/i/c/dccb66d3a2ffab3a/EazMziLUd6xFoTo6QpUoUSIBGO8tHB28GH5t1t9MTbof1Q?e=Nfrcpo)
-and then perform data analytics on the dataset.
+This project is mainly based on Titanic dataset which is from kaggle dataset https://www.kaggle.com/c/titanic/data and then performed data analytics on the dataset.
 <h3> Data Analytics mainly consists of : </h3>
 1. Data observation
 2. Data Analysis
@@ -9,7 +8,7 @@ and then perform data analytics on the dataset.
 
 <h3>Data Observation</h3>
 <h4>
-  In this I used titanic dataset from kaggle and used some normal functions to see what dataset has or has not, and what do I want from it as this be very helpful in when i will start Data analysis.
+  In this I used titanic dataset from kaggle and used some normal functions to see what dataset has or has not, and what do I really desire from THE DATASET as this will be very helpful, when i will start Data analysis.
 </h4>
 
 <h3>Data Analysis</h3>
@@ -19,4 +18,26 @@ and then perform data analytics on the dataset.
   See, I found many questions but i did only some because not everything is need and that some ques. were useful ones.
   They are:
 </h4>
-1. 
+
+* How many siblings/spouse were on the ship
+* Who was the Captain of the Ship
+* Number of people who survived and died
+* How many males and females were on the ship
+* Number of females and males survived the incident
+
+<h3>Data Visualisation</h3>
+<h4>
+  Data Visualization is necessary to indicate data in a appropriate manner and make it interactive. Visualising data makes it easy to understand to user/manager. I made some graphs that are very important in this project.
+  Graph based on:
+* boarded number of people
+* survived number of people
+* died number of people
+* Graph of survived individuals based on gender
+* Graph of survival count based on age group
+* Graph of survival rate based on Passenger class
+</h4>
+
+<h3>Data Modelling</h3>
+<h4>
+  Data modeling is a process that involves analyzing and representing data and its relationships using symbols, diagrams, and text. The goal is to create a conceptual model of how data is captured, stored, and used in a business. This process can help businesses understand their data requirements and improve software development, analytics, and business intelligence.
+</h4>
