@@ -27,7 +27,7 @@ This project is mainly based on Titanic dataset which is from kaggle dataset htt
 
 <h3>Data Visualisation</h3>
 <h4>
-  Data Visualization is necessary to indicate data in a appropriate manner and make it interactive. Visualising data makes it easy to understand to user/manager. I made some graphs that are very important in this project.
+  Data Visualization is necessary to indicate data in a appropriate manner and make it interactive. Visualising data makes it easy to understand to user/manager. I made some graphs that are very important in this project. </h4>
   Graph based on:
 * boarded number of people
 * survived number of people
@@ -35,9 +35,9 @@ This project is mainly based on Titanic dataset which is from kaggle dataset htt
 * Graph of survived individuals based on gender
 * Graph of survival count based on age group
 * Graph of survival rate based on Passenger class
-</h4>
 
 <h3>Data Modelling</h3>
 <h4>
   Data modeling is a process that involves analyzing and representing data and its relationships using symbols, diagrams, and text. The goal is to create a conceptual model of how data is captured, stored, and used in a business. This process can help businesses understand their data requirements and improve software development, analytics, and business intelligence.
+I processed the dataset earlier data preprocessing and then I did some feature enginnering to make it easier for me to select featured columns for training data which is necessary for machine learning model.
 </h4>
