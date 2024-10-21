@@ -27,8 +27,10 @@ This project is mainly based on Titanic dataset which is from kaggle dataset htt
 
 <h3>Data Visualisation</h3>
 <h4>
-  Data Visualization is necessary to indicate data in a appropriate manner and make it interactive. Visualising data makes it easy to understand to user/manager. I made some graphs that are very important in this project. </h4>
+  Data Visualization is necessary to indicate data in a appropriate manner and make it interactive. Visualising data makes it easy to understand to user/manager. I made some graphs that are very important in this project. 
   Graph based on:
+</h4>
+
 * boarded number of people
 * survived number of people
 * died number of people
@@ -39,5 +41,8 @@ This project is mainly based on Titanic dataset which is from kaggle dataset htt
 <h3>Data Modelling</h3>
 <h4>
   Data modeling is a process that involves analyzing and representing data and its relationships using symbols, diagrams, and text. The goal is to create a conceptual model of how data is captured, stored, and used in a business. This process can help businesses understand their data requirements and improve software development, analytics, and business intelligence.
-I processed the dataset earlier data preprocessing and then I did some feature enginnering to make it easier for me to select featured columns for training data which is necessary for machine learning model.
+I processed the dataset earlier data preprocessing and then I did feature enginnering to make it easier for me to select featured columns for training data which is necessary for machine learning model.
 </h4>
+
+<h3>Machine Learning</h3>
+<h4> Machine learning is a field of study that gives computers the ability to learn without being explicitly programmed. It focuses on the development of algorithms that can analyze and learn from data to make predictions and decisions. It is also a part of data analytics but it depends on you/Company  whether they(or you) wants it or not.</h4>
