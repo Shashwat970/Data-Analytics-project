@@ -26,10 +26,10 @@ This project is mainly based on Titanic dataset which is from kaggle dataset htt
 * Number of females and males survived the incident
 
 <h3>Data Visualisation</h3>
-<h4>
+<p>
   Data Visualization is necessary to indicate data in a appropriate manner and make it interactive. Visualising data makes it easy to understand to user/manager. I made some graphs that are very important in this project. 
   Graph based on:
-</h4>
+</p>
 
 * boarded number of people
 * survived number of people
